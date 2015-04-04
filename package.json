@@ -1,0 +1,28 @@
+{
+  "name": "generator-yst-wp",
+  "version": "0.1.0",
+  "description": "WordPress base theme and workflow for YouShallThrive, Inc.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.18.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andybp85/generator-yst-wp.git"
+  },
+  "author": "Andrew Stanish <andy@youshallthrive.com> (http://youshallthrive.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andybp85/generator-yst-wp/issues"
+  },
+  "homepage": "https://github.com/andybp85/generator-yst-wp"
+}
